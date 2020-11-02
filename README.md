@@ -1,1 +1,1 @@
-![morphinewan's github stats](https://github-readme-stats.vercel.app/api?username=morphinewan&count_private=true&show_icons=true&theme=dracula)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morphinewan&theme=dracula&layout=compact)
+![morphinewan's github stats](https://github-readme-stats.vercel.app/api?username=morphinewan&count_private=true&show_icons=true&line_height=40)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morphinewan)
